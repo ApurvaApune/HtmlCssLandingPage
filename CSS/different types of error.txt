@@ -1,0 +1,10 @@
+what are the compiler error ??
+
+syntax error something wrong with structures
+
+semantic error
+
+
+something wrong in meaning
+eg a+b;  not sense in adding a and b
+
